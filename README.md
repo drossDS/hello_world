@@ -1,5 +1,5 @@
 # Portfolio
-Daniel David Rossetti | drossetti12@gmail.com | 978-417-1001
+then we put something else here
 
 # This shoud just be the first heading
 And then there is a bunch of text under it
