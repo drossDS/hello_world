@@ -1,2 +1,2 @@
-<br>
+
 # Heading 1
