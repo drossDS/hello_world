@@ -7,6 +7,12 @@
   <meta name="image" property="og:image" content="ok" />
   <meta name="description" property="og:description" content="alight" />
   <meta name="author" content="bbbu" />
+  <meta
+        name="image"
+        property="og: image"
+        content="https://drossds.github.io/Dan_Data_Science_Portfolio/Images/Regression_Emissions/Carbon_Emissions_Forecast.png"
+  />
+  
 </head>
 
 # Heading 1
